@@ -1,4 +1,4 @@
-# 充电与供电 (Charging & Power Delivery)
+# 第 5 章：充电与供电 (Charging & Power Delivery)
 
 USB 接口的供电能力从最初的 2.5W (5V 0.5A) 发展到了现在的 240W，彻底改变了电子设备的供电方式。
 

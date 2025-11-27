@@ -1,4 +1,4 @@
-# USB 传输协议 (USB Transfer Protocols)
+# 第 3 章：USB 传输协议 (USB Transfer Protocols)
 
 USB 协议决定了数据传输的**速度**。由于 USB-IF (USB 开发者论坛) 多次更改命名规则，导致市场上存在大量混淆的名称。
 

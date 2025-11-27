@@ -1,4 +1,4 @@
-# 常见问题与误区 (FAQ & Common Misconceptions)
+# 第 6 章：常见问题与误区 (FAQ & Common Misconceptions)
 
 ## Q: 为什么我的 Type-C 线充电很慢？
 **A**: 可能的原因有：

@@ -1,4 +1,4 @@
-# Thunderbolt (雷电) 技术 (Thunderbolt Technology)
+# 第 4 章：Thunderbolt (雷电) 技术 (Thunderbolt Technology)
 
 Thunderbolt 是由 Intel 和 Apple 合作开发的接口技术，以“快”和“全能”著称。
 

@@ -1,4 +1,4 @@
-# 项目简介 (Introduction)
+# 第 1 章：项目简介 (Introduction)
 
 ## 项目愿景
 

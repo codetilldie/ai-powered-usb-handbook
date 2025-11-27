@@ -4,9 +4,9 @@ AI-Powered USB Handbook 是一个利用人工智能生成深入浅出的 USB 接
 
 ## 目录
 
-- [项目简介](docs/introduction.md)
-- [USB 接口形态](docs/connector-types.md)
-- [USB 传输协议](docs/transfer-protocols.md)
-- [Thunderbolt (雷电) 技术](docs/thunderbolt.md)
-- [充电与供电](docs/charging-power.md)
-- [常见问题与误区](docs/faq.md)
+- [第 1 章：项目简介](docs/introduction.md)
+- [第 2 章：USB 接口形态](docs/connector-types.md)
+- [第 3 章：USB 传输协议](docs/transfer-protocols.md)
+- [第 4 章：Thunderbolt (雷电) 技术](docs/thunderbolt.md)
+- [第 5 章：充电与供电](docs/charging-power.md)
+- [第 6 章：常见问题与误区](docs/faq.md)
