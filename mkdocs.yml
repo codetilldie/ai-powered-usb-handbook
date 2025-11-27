@@ -1,0 +1,42 @@
+site_name: AI-Powered USB Handbook
+site_description: 深入浅出的 USB 接口与协议解读
+site_author: AI-Powered USB Handbook Team
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.expand
+    - navigation.indexes
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+
+plugins:
+  - search
+  - with-pdf:
+      author: AI-Powered USB Handbook Team
+      copyright: "© 2025 AI-Powered USB Handbook"
+      cover_subtitle: "深入浅出的 USB 接口与协议解读"
+
+nav:
+  - 第 1 章：项目简介: docs/introduction.md
+  - 第 2 章：USB 接口形态: docs/connector-types.md
+  - 第 3 章：USB 传输协议: docs/transfer-protocols.md
+  - 第 4 章：Thunderbolt (雷电) 技术: docs/thunderbolt.md
+  - 第 5 章：充电与供电: docs/charging-power.md
+  - 第 6 章：常见问题与误区: docs/faq.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
